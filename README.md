@@ -1,0 +1,1 @@
+Modified version of the library by pawelsky on RCGroups ([Link](https://www.rcgroups.com/forums/showthread.php?2245978-FrSky-S-Port-telemetry-library-easy-to-use-and-configurable)) for the ESP32.
